@@ -1,4 +1,4 @@
-Для сборки требуется установить:
+To build, you need to install:
 	- GNU ARM Embedded Toolchain
 	- make
-Для загрузки использовался ST-LINK V2 и приложение STM32 ST-LINK Utility
+T-LINK V2 and the STM32 ST-LINK Utility application were used for downloading
